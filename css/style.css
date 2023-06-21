@@ -18,6 +18,9 @@ a {
     color: rgb(255, 255, 255);
 }
 
+#contatoList{
+    list-style-type: disc;
+}
 a:visited{
     color: rgb(255, 255, 255);
 }
