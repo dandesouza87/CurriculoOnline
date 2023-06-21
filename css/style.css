@@ -29,11 +29,12 @@ a:hover, a:active {
 img{
     max-width: 70%;
     max-height:70%;
-    border-radius: 40%;
+    border-radius: 50%;
     object-fit:scale-down;
     align-items: center;
     justify-content: center;
     display: block;
+    margin-left: 15%;
 }
 #contato{
     color: whitesmoke;
