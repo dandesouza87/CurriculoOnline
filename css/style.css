@@ -31,8 +31,11 @@ img{
     max-height:80%;
     border-radius: 50%;
 }
+#contato{
+    color: whitesmoke;
+}
 h2{
-    color:whitesmoke;
+    color:rgb(0, 0, 0);
 }
 
 h3{
@@ -51,7 +54,7 @@ p{
   
 }
 #curso{
-    color:whitesmoke;
+    color:rgb(0, 0, 0);
 }
 
 ol{
@@ -82,3 +85,15 @@ progress{
     color: aquamarine;
 }
 
+table{
+    width: 100%;
+}
+
+tr{
+    height: 50px;
+    text-align: center;
+}
+
+td{
+    border-bottom: 1px solid black;
+}
