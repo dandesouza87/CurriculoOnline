@@ -27,9 +27,13 @@ a:hover, a:active {
 }
 
 img{
-    max-width: 80%;
-    max-height:80%;
-    border-radius: 50%;
+    max-width: 70%;
+    max-height:70%;
+    border-radius: 40%;
+    object-fit:scale-down;
+    align-items: center;
+    justify-content: center;
+    display: block;
 }
 #contato{
     color: whitesmoke;
@@ -91,9 +95,8 @@ table{
 
 tr{
     height: 50px;
-    text-align: center;
+    text-align: justify;
+    padding: 10px;
+    margin: 20px;
 }
 
-td{
-    border-bottom: 1px solid black;
-}
